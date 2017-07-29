@@ -1,2 +1,2 @@
 # GithubNote
-command and operation
+Here are some basic commands and operation.
