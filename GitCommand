@@ -1,0 +1,4 @@
+git status
+git add *.txt
+git commit "***"
+git checkout branch
