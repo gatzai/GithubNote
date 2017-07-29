@@ -1,4 +1,11 @@
+git init
 git status
 git add *.txt
-git commit "***"
+git commit -m "***"
+git log
+git branch ***
 git checkout branch
+git rm *.txt
+git merge ***
+git branch -d ***
+git push
