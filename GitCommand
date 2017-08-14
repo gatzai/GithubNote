@@ -1,8 +1,8 @@
 git init
 git status
 git add *.txt
-git commit -m "***"
-git log
+git commit -m "***"     //保存修改状态，名字自取
+git log                 //To push our local repo to the GitHub server 
 git branch ***
 git checkout branch
 git rm *.txt
