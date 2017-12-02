@@ -30,9 +30,9 @@
 
 ---
 
-tags:标签 分类
+tags: 标签 分类
 
 > www.google.com
 
 
-http://img1.gamersky.com/image2017/11/20171125_zl_91_1/gamersky_01origin_01_2017112517515DD.jpg
+! [] (http://img1.gamersky.com/image2017/11/20171125_zl_91_1/gamersky_01origin_01_2017112517515DD.jpg)
