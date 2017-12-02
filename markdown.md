@@ -30,6 +30,6 @@
 
 ---
 
-tag: 标签 分类
+tags: 标签 分类
 
 > www.google.com
