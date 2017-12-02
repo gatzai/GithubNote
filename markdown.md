@@ -5,8 +5,10 @@
 
 ```C++
 代码框C++
+boolean flag;
 ```
 
 ```JavA
 代码框JAVA
+boolean flag;
 ```
