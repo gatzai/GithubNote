@@ -10,6 +10,7 @@
 ```Java
 代码框JAVA
 ```
+`代码行`
 
 * 无序表
 * A
@@ -27,14 +28,17 @@
 > 引用
 
 ~~删除线~~
+**粗体**
+*斜体*
 
 ---
 
 tags: 标签 分类
 
-** 粗体 **
-* 斜体 *
+**粗体**
+*斜体*
+
 > www.google.com
 
 
-! [] (http://img1.gamersky.com/image2017/11/20171125_zl_91_1/gamersky_01origin_01_2017112517515DD.jpg)
+! [图片] (http://img1.gamersky.com/image2017/11/20171125_zl_91_1/gamersky_01origin_01_2017112517515DD.jpg)
