@@ -44,4 +44,4 @@ tags: 标签 分类
 [谷歌](www.google.com)
 
 
-![图片](http://www.gamersky.com/showimage/id_gamersky.shtml?http://img1.gamersky.com/upimg/pic/2017/04/26/201704260939177437.jpg)
+![图片](http://img1.gamersky.com/upimg/pic/2017/04/26/201704260939177437.jpg)
