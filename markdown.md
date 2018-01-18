@@ -5,7 +5,7 @@
 
 * 数学公式：<img src="https://www.zhihu.com/equation?tex=\sum\frac{4}{5}" />
 
-<img src="http://www.forkosh.com/mathtex.cgi?a+b">
+<img src="http://www.forkosh.com/mathtex.cgi? a+b">
 
 ```
 <img src="https://www.zhihu.com/equation?tex=在这输入公式" />
