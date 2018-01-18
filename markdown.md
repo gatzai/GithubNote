@@ -3,7 +3,7 @@
 ### 三级标题
 #### 以此类推
 
-* 数学公式：<img src="https://www.zhihu.com/equation?tex=\sum \prod \sum_{4}^{5}\Delta \Theta \frac{5}{5}" />
+* 数学公式：<img src="https://www.zhihu.com/equation?tex=\sum\frac{4}{5}" />
 
 ```C++
 代码框C++
