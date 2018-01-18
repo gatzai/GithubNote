@@ -3,7 +3,7 @@
 ### 三级标题
 #### 以此类推
 
-<img src="https://www.zhihu.com/equation?tex=a+b" />
+* 数学公式：<img src="https://www.zhihu.com/equation?tex=a+b" />
 
 ```C++
 代码框C++
@@ -55,7 +55,8 @@
 列表值1|列表值2|列表值3
 列表值1|列表值2|列表值3
 
+`[谷歌](www.google.com)`
 [谷歌](www.google.com)
 
-
+`![图片](http://img1.gamersky.com/upimg/pic/2017/04/26/201704260939177437.jpg)`
 ![图片](http://img1.gamersky.com/upimg/pic/2017/04/26/201704260939177437.jpg)
