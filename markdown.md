@@ -3,7 +3,7 @@
 ### 三级标题
 #### 以此类推
 
-<img src="https://www.zhihu.com/equation?tex= \sum_{k=1}^{|G|} m^{gcd(|G|,k)}" />
+<img src="https://www.zhihu.com/equation?tex= a+b" />
 
 ```C++
 代码框C++
