@@ -3,7 +3,7 @@
 ### 三级标题
 #### 以此类推
 
-<img src="https://www.zhihu.com/equation?tex= a+b" />
+<img src="https://www.zhihu.com/equation?tex= \sum " />
 
 ```C++
 代码框C++
