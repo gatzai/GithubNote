@@ -4,7 +4,7 @@
 #### 以此类推
 
 * 数学公式：<img src="https://www.zhihu.com/equation?tex=\sum\frac{4}{5}" />
-<img src="http://www.forkosh.com/mathtex.cgi?\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+<img src="http://www.forkosh.com/mathtex.cgi?\Large x=a+b">
 
 ```
 <img src="https://www.zhihu.com/equation?tex=在这输入公式" />
