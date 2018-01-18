@@ -5,7 +5,7 @@
 
 * 数学公式：<img src="https://www.zhihu.com/equation?tex=\sum\frac{4}{5}" />
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= a+b" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=a+b" style="border:none;">
 
 ```
 <img src="https://www.zhihu.com/equation?tex=在这输入公式" />
