@@ -3,9 +3,7 @@
 ### 三级标题
 #### 以此类推
 
-<img src="https://www.zhihu.com/equation?tex=a+b" />
-
-\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+<img src="https://www.zhihu.com/equation?tex=\sum_{k=1}^{|G|}=m^{gcd(|G|,k)}" />
 
 ```C++
 代码框C++
